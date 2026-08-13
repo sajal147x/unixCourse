@@ -9,3 +9,5 @@ cat - view file
 less - view file interactively
 ls - list contents
 -a - all flag (including hidden)
+~ - alias for home
+nano - text editor.   (use Ctrl + o to save file, ctrl + x to exit)
