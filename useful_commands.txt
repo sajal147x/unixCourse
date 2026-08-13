@@ -7,3 +7,5 @@ rm - remove
 mkdir - make directory
 cat - view file
 less - view file interactively
+ls - list contents
+-a - all flag (including hidden)
