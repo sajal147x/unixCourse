@@ -1,0 +1,9 @@
+curl - web commands
+cd - change directory
+mv - move
+cp - copy
+rm - remove
+-r - recursive flag
+mkdir - make directory
+cat - view file
+less - view file interactively
